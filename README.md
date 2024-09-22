@@ -20,18 +20,8 @@ IDE: IntelliJ IDEA ou outra IDE compatível com Java.
 Estruturas Utilizadas
 Pilha: Estrutura de dados utilizada para gerenciar atendimentos. Permite empilhar e desempilhar atendimentos de forma LIFO (Last In, First Out).
 Instruções de Execução
-Clone o repositório:
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Abra o projeto na sua IDE preferida.
 
-Compile e execute a classe principal do projeto.
-
-Estrutura do Projeto
-bash
-Copiar código
 src
 │
 ├── estruturas           # Pacote contendo estruturas de dados
